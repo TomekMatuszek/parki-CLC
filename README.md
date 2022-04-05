@@ -7,7 +7,7 @@ Aplikacja powstała jako element projektu w ramach Sekcji Geoinformacji SKNG UAM
 
 ## Korzystanie
 
-### Uruchomienie aplikacji w RStudio za pośrednictwem repozytorium GitHub i pakietu Shiny
+### RStudio + GitHub 
 ```r
 shiny::runGitHub("parki-CLC", "TomekMatuszek")
 ```
