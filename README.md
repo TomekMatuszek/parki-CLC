@@ -3,6 +3,8 @@
 Ta aplikacja pozwala na wyświetlanie struktury pokrycia terenu parków narodowych w Polsce na podstawie danych CORINE Land Cover z 2018 roku.
 Wybierz z listy interesujący Ciebie park narodowy, a wyświetlony zostanie dla niego wykres kołowy obrazujący jaką część powierzchni parku zajmuje każdy z występujących tam typów pokrycia terenu.
 
+Aplikacja powstała jako element projektu w ramach Sekcji Geoinformacji SKNG UAM mającego na celu stworzenie interaktywnej mapy parków narodowych i krajobrazowych w Polsce.
+
 ## Korzystanie
 
 ### Uruchomienie aplikacji w RStudio za pośrednictwem repozytorium GitHub i pakietu Shiny
