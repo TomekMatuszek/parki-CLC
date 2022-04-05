@@ -12,7 +12,7 @@ Aplikacja powstała jako element projektu w ramach Sekcji Geoinformacji SKNG UAM
 shiny::runGitHub("parki-CLC", "TomekMatuszek")
 ```
 
-### Skorzystanie z portalu shinyapps.io
+### Portal shinyapps.io
 
 Aplikacja została również opublikowana na portalu shinyapps.io pod linkiem [https://kemot00.shinyapps.io/app_parki/?_ga=2.121546312.1704183705.1649167086-1543548998.1649167086](https://kemot00.shinyapps.io/app_parki/?_ga=2.121546312.1704183705.1649167086-1543548998.1649167086)
 
